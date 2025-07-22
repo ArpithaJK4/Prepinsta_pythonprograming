@@ -1,5 +1,5 @@
 number = 371
-num = number
+num = number   
 digit, sum = 0, 0
 length = len(str(num))
 for i in range(length):
